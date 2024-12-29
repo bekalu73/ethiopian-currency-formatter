@@ -25,3 +25,7 @@ console.log(numberToAmharic(1234)); // "አንድ ሺህ ሁለት መቶ ሠላ
 console.log(numberToAmharicWithDecimals(1234.56)); // "አንድ ሺህ ሁለት መቶ ሠላሳ አራት ነጥብ አምስት ስድስት"
 console.log(parseETB("ETB 1,234.56")); // 1234.56
 ```
+
+## Repository
+
+For more information, visit the [GitHub repository](https://github.com/bekalu73/ethiopian-currency-formatter).

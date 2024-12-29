@@ -19,5 +19,9 @@
   "dependencies": {},
   "devDependencies": {
     "jest": "^29.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bekalu73/ethiopian-currency-formatter.git"
   }
 }
