@@ -1,0 +1,23 @@
+{
+  "name": "ethiopian-currency-formatter",
+  "version": "1.0.0",
+  "description": "A library for formatting numbers into Ethiopian Birr (ETB) and converting numbers to Amharic words.",
+  "main": "formatter.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Ethiopian",
+    "Currency",
+    "Formatter",
+    "ETB",
+    "Amharic",
+    "Number"
+  ],
+  "author": "Bekalu Sisay Iticha",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
